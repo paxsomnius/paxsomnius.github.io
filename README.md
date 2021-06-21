@@ -34,7 +34,7 @@ $ bundle
 
 ### Customing Stylesheet
 
-Creare a new file `/assets/css/style.scss` in your Jekyll site.
+Create a new file `/assets/css/style.scss` in your Jekyll site.
 
 And then add the following content:
 
