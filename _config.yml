@@ -17,10 +17,11 @@ timezone: Europe/London
 # --------------------------
 title: Pax Somnius                          # the main title
 
-tagline: Blog Time   # it will display as the sub-title
+tagline: Thanks to every trailblazer that came before me whom's contributions to society are the foundation I now stand on.
+  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Blog, focoused on Web Development,
+  A Blog, dealing in Web Development,
   personal insights, and tutorials.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
@@ -30,7 +31,7 @@ github:
   username: paxsomnius             # change to your github username
 
 twitter:
-  username: pax            # change to your twitter username
+  username: PSomnius            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +40,7 @@ social:
   email: pax@paxsomnius.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/psomnius      # change to your twitter homepage
     - https://github.com/paxsomnius       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -76,7 +77,7 @@ theme_mode: dark  # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /algo1.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
